@@ -17,5 +17,5 @@ void draw() {
     art.pixels[p] = newC;
   }
   art.updatePixels();
-    image(art, 0, 0);
+  image(art, 0, 0);
 }
